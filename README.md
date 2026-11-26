@@ -176,7 +176,3 @@ Overall, this project provides a practical implementation of **Machine Learning 
 - Jupyter Notebook
 
 
-
-**Viamrsh P.S.**
-
-GitHub: https://github.com/viamrsh
